@@ -39,7 +39,7 @@ import {
     },
     {
       title: "Get Resume",
-      href: "https://docs.google.com/document/d/1iLDHIQ3boXxk8xdHId4AkNnyBrgcp0mH_-rvO2_So9g/edit?usp=drive_link",
+      href: "https://drive.google.com/file/d/1MhdQikO7e6rstIo4uKpO0JJIAVVRadCv/view?usp=drive_link",
       download: "TsionResume.pdf"
     }
   ];
